@@ -1,8 +1,6 @@
 # BarStore Analysis - Customer & Product Insights
 
-BarStore had plenty of sales data but no way to distinguish their best customers from their one-time buyers, or their most profitable products from their least. By transforming raw transactions into high-level analytical views, this project automates the identification of growth opportunities, customer loyalty, and product health.
-
-The goal is to help BarStore analysts and stakeholders quickly identify high-value customers, top-performing products, and key revenue trends.
+BarStore lacked the clear insights needed to distinguish between casual buyers and loyal advocates, or to identify which products were truly driving profitability. This project solves that by converting raw transaction logs into automated analytical views that pinpoint growth opportunities, customer loyalty patterns, and overall product health. The result is a streamlined system that allows stakeholders to identify top-tier customers and revenue trends at a glance.
 
 ---
 
