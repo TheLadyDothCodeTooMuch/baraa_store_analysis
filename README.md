@@ -42,7 +42,7 @@ The goal is to help BarStore analysts and stakeholders quickly identify high-val
 * **Safe Division:** Implemented CASE statements to prevent Division by Zero errors in AOV calculations.
 * **Dynamic Age Calculation:** Uses DATEDIFF against current system time to ensure customer demographics remain accurate as time passes.
 * **Medallion Ready:** These views pull directly from the Gold Layer, ensuring they utilize the most polished and validated data available in the warehouse.
-* 
+
 ---
 
 
